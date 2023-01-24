@@ -1,0 +1,15 @@
+h1 {
+  color: red;
+}
+
+h2 {
+  color: black;
+}
+
+#economia h2 {
+  color: gold;
+}
+
+.creation-date {
+  color: #ccc;
+}
